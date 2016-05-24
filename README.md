@@ -1,2 +1,2 @@
 # hello-world
-Just a test
+Just checking the getting started...
